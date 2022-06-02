@@ -1,2 +1,2 @@
 # best-repo-ever
-List<something> s ! = cool!
+List<something> s == cool!
